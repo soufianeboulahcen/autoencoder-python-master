@@ -14,8 +14,4 @@ You can open the `autoencoder_fashion_mnist.ipynb` notebook using Google Colab o
 
 - [IBM - What is an Autoencoder?](https://www.ibm.com/topics/autoencoder)
 
-- [Keras](https://keras.io/about/)
-
 - [Fashion MNIST Dataset](https://keras.io/api/datasets/fashion_mnist/)
-
-- [Google Colab](https://colab.research.google.com/)
